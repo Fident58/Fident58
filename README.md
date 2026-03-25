@@ -10,10 +10,37 @@ I'm a Senior AI/ML Engineer with a passion for building intelligent systems and 
 
 ## 🌱 My Expertise:
 
-- **Programming Languages**: Python (Primary), R, Julia
-- **Machine Learning**: Deep Learning, NLP, Computer Vision, Reinforcement Learning
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers
-- **Tools & Platforms**: Docker, Kubernetes, AWS, Azure, GCP, Git, CI/CD
+### Programming Languages
+
+- **Primary**: Python
+- **Secondary**: R, Julia, Bash
+
+### Machine Learning Domains
+
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Reinforcement Learning
+
+### Frameworks & Libraries
+
+- **Deep Learning**: TensorFlow, PyTorch, Keras
+- **ML/Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, SpaCy, Hugging Face Transformers
+- **Computer Vision**: OpenCV, scikit-image
+- **Reinforcement Learning**: OpenAI Gym, Stable Baselines3
+
+### Tools & Platforms
+
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes
+- **Cloud**: AWS, Azure, GCP
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions, Jenkins
+
+## 📊 GitHub Stats:
+
+[![Ethan Reed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fident58&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fident58&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Let's Connect:
 
